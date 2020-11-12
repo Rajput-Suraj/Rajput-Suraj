@@ -28,11 +28,4 @@
 
 <br/>
 
-<a href="https://github.com/Rajput-Suraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajput-Suraj&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajput-Suraj&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 ⭐️ From [Suraj](https://github.com/Rajput-Suraj)
