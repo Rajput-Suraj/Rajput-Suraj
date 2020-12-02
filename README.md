@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing web app solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science and Engineering from Visvesvaraya Technological University.
+- 🎓 &nbsp; Studied Computer Science and Engineering from KLS Gogte Institute of Technology.
 - 💼 &nbsp; Worked as a Jr.Web Developer at Triwits Technologies Private Limited.
 - 🌱 &nbsp; Learning more about React.js, and MERN Stack.
 
