@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web app solutions.
 - 🎓 &nbsp; Studied Computer Science and Engineering from KLS Gogte Institute of Technology.
-- 💼 &nbsp; Worked as a Jr.Web Developer at Triwits Technologies Private Limited.
+- 💼 &nbsp; Working as a Full Stack Web Developer at Assystant Technologies Pvt Ltd.
 - 🌱 &nbsp; Learning more about React.js, and MERN Stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
