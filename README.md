@@ -5,8 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing web app solutions.
 - 🎓 &nbsp; Studied Computer Science and Engineering from KLS Gogte Institute of Technology.
 - 💼 &nbsp; Working as a Full Stack Web Developer at Assystant Technologies Pvt Ltd.
-- 🌱 &nbsp; Learning more about React.js, and MERN Stack.
-
+- 🌱 &nbsp; Learning more about React.js.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -15,7 +14,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
