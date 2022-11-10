@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing web app solutions.
 - 🎓 &nbsp; Studied Computer Science and Engineering from KLS Gogte Institute of Technology.
-- 💼 &nbsp; Working as a Full Stack Web Developer at Assystant Technologies Pvt Ltd.
+- 💼 &nbsp; Working as a React Developer at Enquero.
 - 🌱 &nbsp; Learning more about React.js.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
